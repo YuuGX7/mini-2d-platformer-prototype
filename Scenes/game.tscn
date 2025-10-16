@@ -268,7 +268,7 @@ position = Vector2(827, -55)
 position = Vector2(850, -55)
 
 [node name="coin5" parent="TileMap" instance=ExtResource("3_3dryh")]
-position = Vector2(912, -116)
+position = Vector2(904, -86)
 
 [node name="Player" parent="." instance=ExtResource("1_ebmjs")]
 position = Vector2(83, 36)
